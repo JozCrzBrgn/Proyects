@@ -1,10 +1,13 @@
-<h1>
-  <b>Comprobación del diseño de una tubería</b>
-</h1>
+# Comprobación del diseño de una tubería
+
+## _Tecnologías usadas:_
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 <h2>
-  <b>Descripción:</b>
-  <i>App para calcular el gasto de una tubería.</i>
+  <i><b>Descripción:</i></b>
+  <p>App para calcular el gasto de una tubería.</p>
 </h2>
 
 <img src="/src_appCDT/esquema0.png">
@@ -62,11 +65,6 @@
   
   <img src="/src_appCDT/App3error.png" width=300>
 
-## _Tecnologías usadas:_
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-  
 <h3>
   <i>Puedes descargar la app dando click en la imagen:</i>
 </h3>
