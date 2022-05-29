@@ -41,33 +41,36 @@
   
 <h2>
   <i>Diseño de la App.</i>
-  <img src="/src_appCDT/App.png">
-  <h3>
-    <p>
-      En caso de que el usuario no haya capturado algún dato (en este caso suponemos que ha olvidado capturar la Longitud) se desplega una alarma indicando el dato
-      faltante:
-    </p>
-  </h3>
-  <img src="/src_appCDT/App2.png" width=400>
-  <h3>
-    <p>
-      Si el problema no converge, se muestra la siguiente salida:
-    </p>
-  </h3>
-  <img src="/src_appCDT/App2.png" width=400>
 </h2>
+
+<img src="/src_appCDT/App.png">
+
+<h3>
+  <p>
+    En caso de que el usuario no haya capturado algún dato (en este caso suponemos que ha olvidado capturar la Longitud) se desplega una alarma indicando el dato
+    faltante:
+  </p>
+</h3>
+
+<img src="/src_appCDT/App2.png" width=400>
+
+<h3>
+  <p>
+    Si el problema no converge, se muestra la siguiente salida:
+  </p>
+</h3>
+  
+  <img src="/src_appCDT/App3error.png" width=300>
 
 ## _Tecnologías usadas:_
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-  
   
 <h3>
-  <i>Tomando como base el código en este repositorio se ha creado el programa que se muestra (puedes descargarlo dando click en la imagen):</i>
+  <i>Puedes descargar la app dando click en la imagen:</i>
 </h3>
 
 <a href="https://drive.google.com/file/d/1CuPBBlZAnMhgA1tXEcK87w22ixgCVxI-/view?usp=sharing">
-          <img src="/Img/proyectil.gif" width=500>
+          <img src="/src_appCDT/icono_fondo.png" width=200>
 </a>
