@@ -28,32 +28,33 @@
   </ul>
   <i>Datos de salida:</i>
   <ul>
-    <li>$A$: Area de la sección transversal de la tubería, en metros.</li>
+    <li>$A$: Area de la sección transversal de la tubería, en m2.</li>
     <li>$V$: Velocidad del fluido, en m/s.</li>
     <li>$Q$: Gasto de la tubería, en L/s.</li>
     <li>$R_{e}$: Número de reynolds, adimencional.</li>
     <li>$f$: Factor de fricción, adimencional.</li>
     <li>$h_{f}$: Pérdida por fricción, en metros.</li>
     <li>$h_{m}$: Pérdidas por accesorios, en metros.</li>
-    <li>$J$:  Pérdida unitaria, en metros/metros.</li>
+    <li>$J$:  Pérdida unitaria, en m/m.</li>
    </ul>
 </h3>
   
 <h2>
-
   <i>Diseño de la App.</i>
-
-<img src="/src_appCDT/App.png">
-
+  <img src="/src_appCDT/App.png">
   <h3>
     <p>
       En caso de que el usuario no haya capturado algún dato (en este caso suponemos que ha olvidado capturar la Longitud) se desplega una alarma indicando el dato
-      faltante
+      faltante:
     </p>
   </h3>
-  
-<img src="/src_appCDT/App2.png" width=400>
-
+  <img src="/src_appCDT/App2.png" width=400>
+  <h3>
+    <p>
+      Si el problema no converge, se muestra la siguiente salida:
+    </p>
+  </h3>
+  <img src="/src_appCDT/App2.png" width=400>
 </h2>
 
 ## _Tecnologías usadas:_
