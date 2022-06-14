@@ -69,6 +69,6 @@
   <i>Puedes descargar la app dando click en la imagen:</i>
 </h3>
 
-<a href="https://drive.google.com/file/d/1cw4lLn5c0ftJnA6dQr1kFca5vZ0B1Clp/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Oh53v4oSAFWOCxzUrhGkBmW9KD--OSrS/view?usp=sharing">
           <img src="/src_appCDT/icono_fondo.png" width=200>
 </a>
