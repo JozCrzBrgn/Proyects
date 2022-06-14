@@ -46,16 +46,16 @@
   <i>Diseño de la App.</i>
 </h2>
 
-<img src="/src_appCDT/App.png">
+<img src="/src_appCDT/TresPantallasApp.png">
 
 <h3>
   <p>
-    En caso de que el usuario no haya capturado algún dato (en este caso suponemos que ha olvidado capturar la Longitud) se desplega una alarma indicando el dato
+    En caso de que el usuario no haya capturado algún dato (en este caso suponemos que ha olvidado capturar la Rugosidad, ks) se desplega una alarma indicando el dato
     faltante:
   </p>
 </h3>
 
-<img src="/src_appCDT/App2.png" width=400>
+<img src="/src_appCDT/CorregirApp.png" width=400>
 
 <h3>
   <p>
@@ -63,7 +63,7 @@
   </p>
 </h3>
   
-  <img src="/src_appCDT/App3error.png" width=300>
+  <img src="/src_appCDT/ErrorApp.png" width=300>
 
 <h3>
   <i>Puedes descargar la app dando click en la imagen:</i>
