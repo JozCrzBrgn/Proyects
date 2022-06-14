@@ -11,3 +11,40 @@
   <i><b>Descripción:</i></b>
   <p>Aplicación para calcular los momentos de empotramiento perfecto en vigas doblemente empotradas. Este tipo de aplicaciones se usa para facilitar el uso del método de      los tres momentos.</p>
 </h2>
+
+<h2>
+  <i>Interfaz gráfica de la app.</i>
+</h2>
+
+<h3>
+  <i>Cargas Puntuales.</i>
+</h3>
+<p>Dadas la siguientes cargas en la viga:</p>
+<img src="/src_MEP/CargasPuntuales.png" width=500>
+<p>Ingresamos los datos en la interfaz, damos click en visualizar y calcular:</p>
+<img src="/src_MEP/CP_app.png">
+
+<h3>
+  <i>Momentos Puntuales.</i>
+</h3>
+<p>Dadas la siguientes cargas en la viga:</p>
+<img src="/src_MEP/CargasMomentos.png" width=500>
+<p>Ingresamos los datos en la interfaz, damos click en visualizar y calcular:</p>
+<img src="/src_MEP/MP_app.png">
+
+<h3>
+  <i>Cargas Uniformemente Distribuidas y/o Linealmente Distribuidas.</i>
+</h3>
+<p>Dadas la siguientes cargas en la viga:</p>
+<img src="/src_MEP/CargasUniLin.png" width=500>
+<p>Ingresamos los datos en la interfaz, damos click en visualizar y calcular:</p>
+<img src="/src_MEP/UL_app.png">
+
+<h3>
+  <i>Cargas de Funciones.</i>
+</h3>
+<p>Dadas la siguientes cargas en la viga:</p>
+<img src="/src_MEP/CargasFunciones.png" width=500>
+<p>Ingresamos los datos en la interfaz, damos click en visualizar y calcular:</p>
+<img src="/src_MEP/CF_app.png">
+
