@@ -48,3 +48,11 @@
 <p>Ingresamos los datos en la interfaz, damos click en visualizar y calcular:</p>
 <img src="/src_MEP/CF_app.png">
 
+<h3>
+  <i>Puedes descargar la app dando click en la imagen:</i>
+</h3>
+
+<a href="https://drive.google.com/file/d/1Oh53v4oSAFWOCxzUrhGkBmW9KD--OSrS/view?usp=sharing">
+          <img src="/src_MEP/IconoOficial.png" width=200>
+</a>
+
