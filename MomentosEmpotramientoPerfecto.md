@@ -52,7 +52,7 @@
   <i>Puedes descargar la app dando click en la imagen:</i>
 </h3>
 
-<a href="https://drive.google.com/file/d/1Oh53v4oSAFWOCxzUrhGkBmW9KD--OSrS/view?usp=sharing">
+<a href="https://drive.google.com/drive/folders/1C4Y_r_ql1D1OSvxc54TvR7_66oliO-OL?usp=sharing">
           <img src="/src_MEP/IconoOficial.png" width=200>
 </a>
 
